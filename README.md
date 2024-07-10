@@ -1,4 +1,4 @@
-<h1 align="center">Practicando Spring Framework: Challenge Foro Hub</h1>
+<h1 align="center">Practicando Spring Framework Challenge</h1>
 
 
 Mi objetivo con este challenge fue implementar una API REST con las siguientes funcionalidades:
